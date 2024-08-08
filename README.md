@@ -9,9 +9,6 @@ We presented these labs at the *2020 International Conference on Higher Educatio
 
 ## Usage
 
-The relevant Jupyter Notebook (.ipynb) file that students complete for Lab N is at `labN/labN.ipynb`. For example, the file for Lab 3 is named `lab3.ipynb`, located in the `lab3` folder. The folder `labN` also contains all resources necessary for that lab to function as intended. Changing the directory structure provided in this repository may cause issues, since the labs expect certain fixed filepaths (e.g., when displaying images inside the notebook, loading data from provided files, or running test cases to provide students with sanity checks on their work).
-
-The versions here are without solutions. If you're an educator at another institution and would like to use these in your course, contact Prof. Babak Ayazifar (ayazifar@berkeley.edu) about acquiring solutions.
 
 ## The Labs
 
